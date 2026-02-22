@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Romantic Homicide",
+  "base_artist": "d4vd",
+  "createdAt": "2026-02-22T01:56:40.528936Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Romantic Homicide",
+      "artist": "d4vd",
+      "has_synced": true,
+      "path": "select/01_Romantic_Homicide_d4vd.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Romantic Homicide",
+      "artist": "d4vd",
+      "has_synced": true,
+      "path": "select/02_Romantic_Homicide_d4vd.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Romantic Homicide",
+      "artist": "d4vd",
+      "has_synced": true,
+      "path": "select/03_Romantic_Homicide_d4vd.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Romantic Homicide",
+      "artist": "d4vd",
+      "has_synced": true,
+      "path": "select/04_Romantic_Homicide_d4vd.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Romantic Homicide - Spotify Singles",
+      "artist": "WHIPPED CREAM",
+      "has_synced": true,
+      "path": "select/05_Romantic_Homicide_-_Spotify_Singles_WHIPPED_CREAM.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Romantic Homicide",
+      "artist": "d4vd",
+      "has_synced": true,
+      "path": "select/06_Romantic_Homicide_d4vd.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Romantic Homicide",
+      "artist": "d4vd",
+      "has_synced": true,
+      "path": "select/07_Romantic_Homicide_d4vd.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "d4vd - Romantic Homicide",
+      "artist": "d4vd",
+      "has_synced": true,
+      "path": "select/08_d4vd_-_Romantic_Homicide_d4vd.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "d4vd - Romantic Homicide (Official Audio)",
+      "artist": "d4vd",
+      "has_synced": true,
+      "path": "select/09_d4vd_-_Romantic_Homicide_(Official_Audio)_d4vd.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Romantic Homicide - Live Version",
+      "artist": "d4vd",
+      "has_synced": true,
+      "path": "select/10_Romantic_Homicide_-_Live_Version_d4vd.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Romantic Homicide (Live Version)",
+      "artist": "d4vd",
+      "has_synced": true,
+      "path": "select/11_Romantic_Homicide_(Live_Version)_d4vd.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Romantic Homicide",
+      "artist": "jxdn",
+      "has_synced": true,
+      "path": "select/12_Romantic_Homicide_jxdn.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Romantic Homicide (speed up) - Remix",
+      "artist": "Splice Records",
+      "has_synced": false,
+      "path": "select/13_Romantic_Homicide_(speed_up)_-_Remix_Splice_Records.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Romantic Homicide",
+      "artist": "d4vd",
+      "has_synced": true,
+      "path": "select/14_Romantic_Homicide_d4vd.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Romantic Homicide",
+      "artist": "d4vd",
+      "has_synced": true,
+      "path": "select/15_Romantic_Homicide_d4vd.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Romantic Homicide - Sped Up",
+      "artist": "DJ Tec",
+      "has_synced": true,
+      "path": "select/16_Romantic_Homicide_-_Sped_Up_DJ_Tec.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Romantic Homicide",
+      "artist": "d4vd",
+      "has_synced": false,
+      "path": "select/pl_01_Romantic_Homicide_d4vd.txt"
+    }
+  ]
+}
